@@ -1,0 +1,28 @@
+{
+    "context": "client",
+    "identifier": "com.pa.elodea.animatedbg",
+    "display_name": "Animated Backgrounds",
+    "description": "Animated backgrounds for the main menu",
+    "author": "elodea",
+    "forum": "",
+    "icon": "",
+    "signature": "not yet implemented",
+    "id": "uimod-mainmenu",
+    "scenes": {
+        "start": [
+            "coui://ui/mods/startmenu/animatedbackground.js"
+        ]
+    },
+    "version": "1",
+    "category": [
+    "in-game",
+    "main-menu"
+  ],
+    "product": [
+        "Titans"
+    ],
+    "priority": 100,
+    "enabled": true,
+    "build": "89755",
+    "date": "2016/04/12"
+}
