@@ -10,7 +10,7 @@
     "id": "uimod-mainmenu",
     "scenes": {
         "start": [
-            "coui://ui/mods/startmenu/animatedbackground.js"
+            "coui://ui/mods/animatedbackground/animatedbackground.js"
         ]
     },
     "version": "1",
